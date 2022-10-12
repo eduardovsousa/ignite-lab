@@ -1,9 +1,8 @@
 # IGNITE LAB - DESIGN SYSTEM
 
 ### Projeto em desenvolvimento, sendo criado pela Rocketseat 🚀
-<br>
 
-### Prévia do projeto → Elaborado através do Figma.
+- Prévia do projeto → Elaborado através do Figma.
 <br>
 
 LOGIN                            |  COMPONENTS                   | COLORS                    |
